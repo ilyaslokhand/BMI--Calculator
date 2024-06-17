@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(187, 187, 243);
+}
+
+.bmi {
+  text-align: center;
+}
+
+.weight-define {
+  margin-top: 30px;
+}
+
+button {
+  margin-top: 30px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 5px 5px rgb(0, 0, 0);
+}
+
+.bmi p {
+  margin-top: 20px;
+}
+.bmi h1 {
+  padding-top: 2;
+}
+
+#results {
+  font-size: 35px;
+  margin-top: 20px;
+  color: rgb(241, 241, 241);
+}
